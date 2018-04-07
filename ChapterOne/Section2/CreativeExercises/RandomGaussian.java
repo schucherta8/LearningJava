@@ -1,5 +1,5 @@
 //Exercise: 1.2.27
-//Program: Write a program thqt prints a random number r drawn
+//Program: Write a program that prints a random number r drawn
 //from the Guassian distribution
 public class randomGaussian
 {
